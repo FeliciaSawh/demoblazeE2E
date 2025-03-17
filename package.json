@@ -1,0 +1,17 @@
+{
+  "name": "demoblaze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "playwright test --config=playwright.config.ts --project=Chromium --headed",
+    "test:api": "playwright test --config=api.config.ts --project=Chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@playwright/test": "^1.51.0"
+  }
+}
