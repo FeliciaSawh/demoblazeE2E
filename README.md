@@ -8,7 +8,8 @@ This repository contains **end-to-end tests** for DemoBlaze website using **Play
 
 ## 📌 Features
 ✅ UI and Functional Testing  
-✅ Page Object Model (POM) implementation   
+✅ Page Object Model (POM) implementation 
+✅ API verification status code
 
 ---
 
